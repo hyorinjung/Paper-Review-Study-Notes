@@ -25,3 +25,8 @@
 > 이 논문은 **LLM이 아동 음성 ASR 오류를 일부 개선할 수 있지만,
 > Whisper와 같은 autoregressive ASR 출력에는 한계가 있음을 보여준다.**
 
+## Materials
+- Slides: [`LLM-based ASR Error Correction for Child Conversations (Review Slides)`](slides/Large_Language_Models_based_ASR_Error_Correction_for_Child_Conversations_ppt.pdf)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
