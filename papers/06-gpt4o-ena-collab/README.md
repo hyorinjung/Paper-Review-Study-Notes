@@ -33,3 +33,8 @@ Carolyn Rosé, Language Technologies Institute, Carnegie Mellon University, cpro
 > 이 논문은 **GPT-4o가 prompting만으로 협업 역량을 상당 수준 포착할 수 있지만,
 > 인간과 동일한 방식으로 협업 구조를 이해하지는 않음을 보여준다.**
 
+## Materials
+- Slides: [`Capturing Collaborative Competency with GPT-4o and ENA (Review Slides)`](slides/Capturing%20Collaborative%20Competency%20with%20GPT-4o%20and%20ENA_ppt.pdf)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
