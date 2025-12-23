@@ -1,5 +1,3 @@
-Paper-Review-Study-Notes
-
 # 📄 Paper Review & Study Notes
 
 This repository contains my personal study notes and paper reviews
