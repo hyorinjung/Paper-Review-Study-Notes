@@ -23,3 +23,8 @@
 > 이 논문은 **feature bank라는 “기억 구조”를 공격 지점으로 삼아,
 > multi-object tracker의 장기 추적 능력을 무너뜨린다.**
 
+## Materials
+- Slides: [`slides/BankTweak_Adversarial_Attack_against_Multi-Object_Trackers_by_Manipulating_Feature_Banks.pptx`](slides/BankTweak_Adversarial_Attack_against_Multi-Object_Trackers_by_Manipulating_Feature_Banks.pptx)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
