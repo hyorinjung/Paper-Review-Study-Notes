@@ -24,3 +24,8 @@
 > 이 논문은 fine-tuning이 Chain-of-Thought 추론을 보존하지 않을 수 있으며,
 > 모델의 추론 사용 방식 자체를 변화시킬 수 있음을 보여준다.
 
+## Materials
+- Slides: [`On the Impact of Fine-Tuning on Chain-of-Thought Reasoning (Review Slides)`](slides/OntheImpactofFine-TuningonChain-of-ThoughtReasoning_ppt.pdf)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
