@@ -31,3 +31,9 @@
 > 겹침 발화 인식과 타겟 화자 인식을 동시에 수행하는
 > 가장 현실적인 joint ASR 확장 방식**을 제시한다.
 
+## Materials
+- Slides: [`Empowering Whisper: Joint Multi-Talker & Target-Talker ASR (Review Slides)`](slides/Empowering%20Whisper%20as%20a%20Joint%20Multi-Talker%20and%20Target-Talker%20Speech%20Recognition%20System_ppt.pdf)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
+
