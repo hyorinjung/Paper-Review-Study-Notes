@@ -33,3 +33,9 @@
 > 이 논문은 **prompt를 expert 단위로 분해하고 동적으로 조합함으로써,
 > Whisper를 고령자 음성에 실시간으로 적응시키는 방법을 제시한다.**
 
+## Materials
+- Slides: [`MOPSA: Prompt-Experts based Speaker Adaptation for Elderly ASR (Review Slides)`](slides/MOPSA_%20Mixture%20of%20Prompt-Experts%20Based%20Speaker%20Adaptation%20for%20Elderly%20Speech%20Recognition%20(1).pdf)
+
+> Slides are created for personal study and paper review purposes.
+> Figures and experimental results belong to the original authors.
+
